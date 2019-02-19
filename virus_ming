@@ -1,0 +1,5 @@
+#!/bin/bash
+cd ~/desktop
+echo "what's your name?" >> virus_user
+open virus_user
+
